@@ -1,0 +1,1 @@
+const service_gmfl = <T>(args: T): T => { return args; };
